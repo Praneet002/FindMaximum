@@ -52,6 +52,8 @@ max_marks([88, 67, 77, 93, 95, 11, 67, 89, 56, 89])
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![output](https://github.com/Praneet002/FindMaximum/blob/main/Mamimum%20of%20list%20of%20numbers%201.png)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
