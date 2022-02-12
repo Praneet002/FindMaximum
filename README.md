@@ -53,6 +53,7 @@ max_marks([88, 67, 77, 93, 95, 11, 67, 89, 56, 89])
 
 ## Output:
 ![output](https://github.com/Praneet002/FindMaximum/blob/main/Mamimum%20of%20list%20of%20numbers%201.png)
+![output](https://github.com/Praneet002/FindMaximum/blob/main/Maximum%20of%20list%20of%20numbers%202.png)
 
 
 ## Result:
